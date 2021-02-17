@@ -1,10 +1,10 @@
 {
-  "name": "Eleventy Duo",
+  "name": "Guilherme Oliveira",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "url": "https://goliveira.dev/",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
+    "name": "Guilherme Oliveira",
+    "email": "hi@goliveira.dev",
     "twitterHandle": "author_handle"
   },
   "defaultSocialImage": "/images/default-social-image.png",
@@ -23,17 +23,17 @@
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
+      "url": "https://www.instagram.com/goliveiradev/",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/goliveiradev",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://twitter.com/goliveiradev",
       "external": true
     }
   ],
